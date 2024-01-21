@@ -13,7 +13,7 @@ export default function Home() {
           className="aspect-square w-[5.5rem] rounded-full"
         />
         <div className="leading-9">
-          <h1 className="text-2xl font-semibold">Jessica Randall</h1>
+          <h1 className="mb-1 text-2xl font-semibold">Jessica Randall</h1>
           <p className="text-sm font-bold text-primary-green">
             London, United Kingdom
           </p>
