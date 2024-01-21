@@ -29,7 +29,7 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${inter.className} flex min-h-screen flex-col items-center justify-center`}
+        className={`${inter.className} bg-neutral-offblack flex min-h-screen flex-col items-center justify-center text-white`}
       >
         {children}
       </body>

@@ -23,7 +23,6 @@ const config = {
           green: "hsl(75, 94%, 57%)",
         },
         neutral: {
-          white: "hsl(0, 0%, 100%)",
           grey: "hsl(0, 0%, 20%)",
           darkgrey: "hsl(0, 0%, 12%)",
           offblack: "hsl(0, 0%, 8%)",
